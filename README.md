@@ -14,4 +14,6 @@ Run:
 
 ### `yarn start`
 
-![Captura de Tela 2021-10-13 às 22 00 28](https://user-images.githubusercontent.com/62365336/137233231-ec26c9c6-834e-4ad7-a1c8-742408d8c494.png)
+
+https://user-images.githubusercontent.com/62365336/137233696-d9cfa5b4-66cd-47aa-b3f4-0f58f5cd0782.mov
+
