@@ -12,8 +12,8 @@ https://user-images.githubusercontent.com/62365336/137234108-b4b516c7-0080-4a9e-
 
 Install dependencies:
 
-### `yarn`
+`yarn`
 
 Run:
 
-### `yarn start`
+`yarn start`
