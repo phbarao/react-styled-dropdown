@@ -29,7 +29,6 @@ export default function Dropdown() {
   return (
     <Main>
       <h1>Selecione uma filial</h1>
-
       <DropDownContainer>
         <DropDownHeader onClick={toggling}>
           {selectedOption}
@@ -51,10 +50,16 @@ export default function Dropdown() {
           </DropDownListContainer>
         )}
       </DropDownContainer>
-
       <small>
         Filial selecionada: <span>{`${selectedOption}`}</span>{" "}
       </small>
+
+      <p className="credits">
+        {`Developed by `}
+        <a href="https://phbarao.github.io/my-page" rel="author">
+          Pedro Barão
+        </a>
+      </p>
     </Main>
   );
 }

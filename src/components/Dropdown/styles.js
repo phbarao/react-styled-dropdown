@@ -20,6 +20,25 @@ export const Main = styled.div`
     color: #0ddac5;
     font-weight: bold;
   }
+
+  .credits {
+    color: #fff;
+    font-size: 0.8rem;
+    position: absolute;
+    bottom: 2rem;
+  }
+
+  .credits a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.5s;
+
+    &:hover {
+      opacity: 0.5;
+      transition: 0.5s;
+    }
+  }
 `;
 
 export const DropDownContainer = styled.div`
