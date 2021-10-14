@@ -1,8 +1,8 @@
-# React Styled Select.
+# React Styled Dropdown.
 
-> Custom select using react and styled-components.
+> Custom dropdown using react and styled-components.
 
-**Live Demo:** https://styledselect.netlify.app/
+**Live Demo:** https://react-styled-dropdown.netlify.app/
 
 ## Running
 
